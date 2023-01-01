@@ -1,0 +1,16 @@
+{
+  "name": "agnui",
+  "version": "1.0.0",
+  "description": "Agnostic User Interfaces",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrendugan/agnui.git"
+  },
+  "author": "warrendugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrendugan/agnui/issues"
+  },
+  "homepage": "https://github.com/warrendugan/agnui#readme"
+}
